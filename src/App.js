@@ -8,6 +8,9 @@ function App() {
   return (
     <div>
       <MainComponent />
+      <MainComponent />
+      <MainComponent />
+      <MainComponent />
     </div>
   );
 }
